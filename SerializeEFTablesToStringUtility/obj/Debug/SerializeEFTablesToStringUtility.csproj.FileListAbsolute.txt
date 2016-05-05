@@ -1,0 +1,10 @@
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\SerializeEFTablesToStringUtility.exe.config
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\SerializeEFTablesToStringUtility.exe
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\SerializeEFTablesToStringUtility.pdb
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\obj\Debug\SerializeEFTablesToStringUtility.csprojResolveAssemblyReference.cache
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\obj\Debug\SerializeEFTablesToStringUtility.exe
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\obj\Debug\SerializeEFTablesToStringUtility.pdb
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\EntityFramework.dll
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\EntityFramework.SqlServer.dll
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\EntityFramework.xml
+C:\VS\CIFF\Main\DEV\Source\SerializeEFTablesToString\SerializeEFTablesToStringUtility\bin\Debug\EntityFramework.SqlServer.xml

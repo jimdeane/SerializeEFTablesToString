@@ -1,0 +1,16 @@
+﻿
+Policy_Component[!policy_component_id;last_usi_id],Policy_Option[policy_number;product_component_code]
+| [product_code] | [policy_number] | [policy_component_sequence] | [product_component_code] | [risk_type_code] | [expected_start_date] | [start_date] | [end_date] | [status]                      | [status_change_date] | [count_of_premiums] | [count_of_arrears] | [previous_policy_component_id] | [date_created] | [effective_date_on_status_change_trigger] | [beneficiary_type_code] | [entry_age] |
+| CL01           | 100000001B      | 1                           | TERM_LIFE_01             | NONE             | NULL                  | 2016-10-31   | NULL       | PENDING_POST_ID_AND_SCREENING | 2016-05-05           | 0                   | 0                  | NULL                           | 2016-05-05     | NULL                                      | SPOUSE                  | 19          |
+| CL01           | 100000002C      | 1                           | TERM_LIFE_01             | NONE             | NULL                  | 2016-04-09   | NULL       | PENDING_POST_ID_AND_SCREENING | 2016-05-05           | 0                   | 0                  | NULL                           | 2016-05-05     | NULL                                      | SPOUSE                  | 20          |
+| CL01           | 100000003D      | 1                           | TERM_LIFE_01             | NONE             | NULL                  | 2016-03-28   | NULL       | PENDING_POST_ID_AND_SCREENING | 2016-05-05           | 0                   | 0                  | NULL                           | 2016-05-05     | NULL                                      | SPOUSE                  | 21          |
+| CL01           | 100000004E      | 1                           | TERM_LIFE_01             | NONE             | NULL                  | 2016-10-07   | NULL       | PENDING_POST_ID_AND_SCREENING | 2016-05-05           | 0                   | 0                  | NULL                           | 2016-05-05     | NULL                                      | SPOUSE                  | 22          |
+| CL01           | 100000005F      | 1                           | TERM_LIFE_01             | NONE             | NULL                  | 2016-01-31   | NULL       | PENDING_POST_ID_AND_SCREENING | 2016-05-05           | 0                   | 0                  | NULL                           | 2016-05-05     | NULL                                      | SPOUSE                  | 23          |
+
+Policy_Component[!policy_component_id;last_usi_id],Policy_Option[policy_number;product_component_code]
+| [policy_number] | [product_component_code] |
+| 100000001B      | TERM_LIFE_01             |
+| 100000002C      | TERM_LIFE_01             |
+| 100000003D      | TERM_LIFE_01             |
+| 100000004E      | TERM_LIFE_01             |
+| 100000005F      | TERM_LIFE_01             |

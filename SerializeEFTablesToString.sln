@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeEFTablesToString", "SerializeEFTablesToString\SerializeEFTablesToString.csproj", "{B4E75407-4BFA-4BC3-940C-EED90FA416F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeEFTablesToStringTests", "SerializeEFTablesToStringTests\SerializeEFTablesToStringTests.csproj", "{9A946CDE-F0A4-415E-8C29-41D929EF0C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeEFTablesToStringUtility", "SerializeEFTablesToStringUtility\SerializeEFTablesToStringUtility.csproj", "{7BB12685-53EE-4B6D-80E7-E1BFBD839FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E75407-4BFA-4BC3-940C-EED90FA416F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E75407-4BFA-4BC3-940C-EED90FA416F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E75407-4BFA-4BC3-940C-EED90FA416F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E75407-4BFA-4BC3-940C-EED90FA416F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A946CDE-F0A4-415E-8C29-41D929EF0C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A946CDE-F0A4-415E-8C29-41D929EF0C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A946CDE-F0A4-415E-8C29-41D929EF0C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A946CDE-F0A4-415E-8C29-41D929EF0C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB12685-53EE-4B6D-80E7-E1BFBD839FC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB12685-53EE-4B6D-80E7-E1BFBD839FC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB12685-53EE-4B6D-80E7-E1BFBD839FC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB12685-53EE-4B6D-80E7-E1BFBD839FC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
