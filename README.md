@@ -1,5 +1,6 @@
 # SerializeEFTablesToString
-Published to NuGet
+
+Published to NuGet - https://www.nuget.org/packages/SerializeEFTablesToString/2.0.0
 
 Takes an Entity Framework DBContext and Serialises the contents of all the tables specified in the List of strings to a string. 
 
